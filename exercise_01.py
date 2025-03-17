@@ -23,8 +23,7 @@ print("Text:", message)
 print("Boolean:", is_active)
 print("None Value:", result)
 
-
-
-
+num1 = 5
+num2 = 3
 
 
